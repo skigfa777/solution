@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"conta",
+				"contacts__inputs"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"custom",
+				"custom__title"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"a",
+				"autocomplete"
+			],
+			[
+				"INPut",
+				"INPUT_GET"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"aut",
+				"autocomplete"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"pa",
+				"patent_wrap"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"s",
+				"stretch"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"button",
+				"button_bor"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"butto",
+				"button_f"
+			],
+			[
+				"class",
+				"class_nums"
+			],
+			[
+				"IN",
+				"INPUT_GET"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"cop",
+				"copyright"
+			],
+			[
+				"FIl",
+				"FILTER_VALIDATE_INT"
+			],
+			[
+				"FI",
+				"FILTER_SANITIZE_STRING"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"FIL",
+				"FILTER_REQUIRE_ARRAY"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"fony",
+				"font-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"fil",
+				"FILTER_SANITIZE_STRING"
+			],
+			[
+				"INPUT",
+				"INPUT_GET"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"INPUT_",
+				"INPUT_POST"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"er",
+				"errorsMessage"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"fle-",
+				"flex-basis"
+			],
+			[
+				"met",
+				"methodic"
+			],
+			[
+				"session_de",
+				"session_destroy()"
+			],
+			[
+				"f",
+				"for\tfor i=1,10"
+			],
+			[
+				"sp",
+				"spawnmaker_cycle"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"da",
+				"data-id"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"_get",
+				"_getFromSess"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"set syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax:html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/WEB/Apache24/htdocs/tests/avantmarket"
+	],
+	"file_history":
+	[
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/description.php",
+		"/F/WEB/Apache24/conf/extra/httpd-vhosts.conf",
+		"/C/Users/bipos/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/lmhosts.sam",
+		"/F/WEB/Apache24/conf/httpd.conf",
+		"/C/Users/bipos/Desktop/Авантмаркет/тестовое задание/system.auth.form/auth/template.php",
+		"/C/Users/bipos/Desktop/Авантмаркет/тестовое задание/menu/menu_left/template.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp05690/bitrix.turboru.ru/public_html/local/templates/turboru_m1/header.php",
+		"/C/Users/bipos/Pictures/tmp2/10/отчеты/отчетПитер_ТЕКУЩЕЕ.txt",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/Посадочные.txt",
+		"/D/Files/piter/info.txt",
+		"/C/Users/bipos/Documents/Для_собеседований/PHP_особенности.txt",
+		"/F/WEB/Apache24/htdocs/piter/bs/index.php",
+		"/D/Files/baikalsoft-work/backups/profkontur.com/ssh.txt",
+		"/C/Users/bipos/AppData/Local/Temp/scp40232/domains/stonecityofficial.ru/wp-config.php",
+		"/C/Users/bipos/Desktop/Актуальные_доступы.txt",
+		"/C/Users/bipos/AppData/Local/Temp/scp48505/domains/stonecityofficial.ru/test1.txt",
+		"/C/Users/bipos/AppData/Local/Temp/scp39932/domains/stonecityofficial.ru/my-errors2.log",
+		"/C/Users/bipos/AppData/Local/Temp/scp38373/domains/stonecityofficial.ru/index.html",
+		"/C/Users/bipos/Pictures/tmp2/Профконтур&БС/Авиазавод.txt",
+		"/D/Files/baikalsoft-work/Brit03/hosting1.txt",
+		"/D/Files/baikalsoft-work/Brit03/hosting.txt",
+		"/D/Files/psw/Новая папка/sber.txt",
+		"/C/Users/bipos/Downloads/px (1).sql",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/css/page.css",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/contacts_old.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/components/turboru/main.feedback/component.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/work_stages.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/css/html-elements.css",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/index.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/feedback.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/components/bitrix/catalog.element/board/template — копия.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/components/bitrix/catalog.element/board/lang/ru/template.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/assets/js/main.js",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/assets/js/slider.js",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/assets/css/main.css",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/bitrix/components/bitrix/catalog.element/templates/.default/template.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/include_areas/card_product/description_block.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/assets/js/slider.min.js",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/bitrix/header.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/assets/js/basket.min.js",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/components/bitrix/catalog.element/board/style.css",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/include_areas/card-product/description_block.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp59766/salut-orto.ru/www/include/our_histories2.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp59686/salut-orto.ru/www/index.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/template_styles.css",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/bitrix/components/bitrix/catalog.element/templates/board/template.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/components/bitrix/catalog.element/.default/template.php",
+		"/F/WEB/Apache24/htdocs/piter/spgfood-main/gulpfile.js",
+		"/F/WEB/Apache24/htdocs/piter/spgfood-main/assets/build/css/main.css",
+		"/F/WEB/php7411/php.ini",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/new_assets/js/forms_handlers.js",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/new_assets/js/header.js",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/index.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru/index.html",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/feedback.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/new_assets/css/feedback.css",
+		"/D/Files/SORTED/webdev/comments.php",
+		"/D/Files/SORTED/webdev/functions.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/header.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp14543/www/vpch.net/wp-content/themes/vpch/template-parts/comments.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp12473/www/vpch.net/wp-content/themes/vpch/assets/css/ext.css",
+		"/C/Users/bipos/Downloads/akismet.5.0.2/akismet/class.akismet.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp33702/www/vpch.net/wp-content/themes/vpch/functions.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp13193/www/vpch.net/wp-content/themes/vpch/functions.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp05999/www/vpch.net/wp-content/themes/vpch/comments.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp57063/wp-content/themes/templat122/category-uslugi.php",
+		"/C/Users/bipos/Downloads/akismet.5.0.2/akismet/akismet.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp04207/www/vpch.net/wp-content/themes/vpch/single.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp54873/www/vpch.net/wp-content/themes/vpch/template-parts/comments.php",
+		"/C/Users/bipos/AppData/Local/Temp/7zO4040A65C/class-ccclean-walker-comment.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp42650/bitrix.turboru.ru/public_html/index.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp59728/bitrix.turboru.ru/public_html/file.txt",
+		"/C/Users/bipos/AppData/Local/Temp/scp56311/bitrix.turboru.ru/public_html/test.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/footer.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/include/poisk-table.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/css/forms.css",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/php_interface/init.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/php_interface/forms_handlers.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/work_stages.php",
+		"/D/WEB/Apache24/htdocs/piter/custom/Amocrm.php",
+		"/D/WEB/Apache24/htdocs/piter/custom/script.js",
+		"/D/WEB/Apache24/htdocs/piter/custom/index.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/table-poisk.js",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/scripts.js",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/active_link.js",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/custom.js",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/amocrm_api.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/token_info.json",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/refresh_token.json",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/php_interface/log-post22.txt",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/auth.php",
+		"/D/WEB/Apache24/htdocs/profkontur_september/anketa/save.php",
+		"/D/WEB/Apache24/htdocs/piter/turboru/feedback/feedback.css",
+		"/C/Users/bipos/Downloads/main.js",
+		"/C/Users/bipos/Downloads/index.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp37977/salut-orto.ru/www/custom/index.php",
+		"/D/Files/psw/gmail_sister.txt",
+		"/D/WEB/Apache24/htdocs/piter/spgfood.ru/urlrewrite.php",
+		"/D/WEB/php7411/php.ini",
+		"/D/Files/dev/games/RE8VillageProblems.txt",
+		"/D/WEB/Apache24/htdocs/profkontur_september/static/local/cabinet/customer/customer.js",
+		"/C/Users/bipos/AppData/Local/Temp/scp19052/www/vpch.net/wp-content/themes/vpch/single.php",
+		"/D/Files/SORTED/webdev/style.css",
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/.htaccess",
+		"/C/Users/bipos/AppData/Local/Temp/scp37744/www/vpch.net/wp-content/themes/vpch/assets/css/ext.css",
+		"/C/Users/bipos/AppData/Local/Temp/scp33402/www/vpch.net/wp-content/themes/vpch/template-parts/comments.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp01236/www/vpch.net/.htaccess",
+		"/C/Users/bipos/AppData/Local/Temp/scp21745/www/optpropusk.ru/wp-content/themes/optpropusk/index.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp22483/www/optpropusk.ru/wp-content/themes/optpropusk/template-parts/reviews.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp22141/www/optpropusk.ru/wp-content/themes/optpropusk/template-parts/after_header.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp22888/www/optpropusk.ru/wp-content/themes/optpropusk/template-parts/breadcrumbs.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp16215/www/vpch.net/wp-content/themes/vpch/index.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp16077/.htaccess",
+		"/D/WEB/Apache24/htdocs/profkontur_september/static/local/blog/blog.js",
+		"/D/WEB/Apache24/htdocs/profkontur_september/static/local/operator/operator.js",
+		"/D/Files/baikalsoft-work/backups/salut-orto.ru&robot-tsr.ru&steplife.pro/hosting.txt",
+		"/D/Files/baikalsoft-work/KPI_Ivan_current.txt",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/reset.scss",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/mixins.scss",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/main.scss",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/fonts.scss",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/js/main.js",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/build/js/basket.js",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/gulpfile.js",
+		"/D/WEB/Apache24/htdocs/piter/spgfood-main/public/css/main.css",
+		"/D/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/turboru_m1/description.php",
+		"/D/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/template_styles.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "avantmarket.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"businessman",
+				"templates\\pages\\register\\respondent\\businessman\\businessman.tpl.php"
+			],
+			[
+				"respondent/busin",
+				"templates\\pages\\register\\respondent\\businessman\\businessman.php"
+			],
+			[
+				"/register/respondent/businessman",
+				"templates\\pages\\register\\respondent\\businessman\\businessman.tpl.php"
+			],
+			[
+				"register/respondent/busin",
+				"templates\\pages\\register\\respondent\\businessman\\businessman.php"
+			],
+			[
+				"/tests/2/registration",
+				"templates\\pages\\tests\\2\\registration\\registration.php"
+			],
+			[
+				"/tests/end/businessman",
+				"templates\\pages\\tests\\end\\businessman.php"
+			],
+			[
+				"/cabinet/customer/businessman",
+				"templates\\pages\\cabinet\\customer\\businessman\\businessman.php"
+			],
+			[
+				"/register/respondent/businessman.tpl",
+				"templates\\pages\\register\\respondent\\businessman\\businessman.tpl.php"
+			],
+			[
+				"formulapro.php",
+				"templates\\pages\\cabinet\\customer\\project\\stat\\report\\formulaprof\\formulaprof.tpl.php"
+			],
+			[
+				"emosta",
+				"system\\inc\\tests\\Emostate.php"
+			],
+			[
+				"businessman.php",
+				"templates\\pages\\cabinet\\customer\\businessman\\businessman.tpl.php"
+			],
+			[
+				"businessman.sql",
+				"system\\inc\\tests\\methodics\\queries\\businessman\\respondents\\businessman.sql"
+			],
+			[
+				"/tests/2/end",
+				"templates\\pages\\tests\\2\\end\\end.php"
+			],
+			[
+				"",
+				"templates\\pages\\tests\\result\\2\\2.php"
+			],
+			[
+				"Test",
+				"system\\inc\\tests\\Test.php"
+			],
+			[
+				"logged-user-info.php",
+				"templates\\blocks\\logged-user-info.php"
+			],
+			[
+				"Tolers",
+				"system\\inc\\tests\\Tolersheet.php"
+			],
+			[
+				"suicide.tpl.",
+				"templates\\pages\\cabinet\\customer\\project\\stat\\report\\suicide\\suicide.tpl.php"
+			],
+			[
+				"suici",
+				"templates\\pages\\operator\\methodics\\suicide\\suicide.tpl.php"
+			],
+			[
+				"Project",
+				"system\\inc\\core\\Project.php"
+			],
+			[
+				"businessman.tpl",
+				"templates\\pages\\cabinet\\customer\\businessman\\businessman.tpl.php"
+			],
+			[
+				"busine",
+				"templates\\pages\\tests\\end\\businessman.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\WEB\\Apache24\\htdocs\\piter\\spgfood.ru\\spgfood.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
