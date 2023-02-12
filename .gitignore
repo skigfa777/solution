@@ -1,7 +1,7 @@
-bitrix/
-content/
-HTML_utf/
-upload/
+/bitrix/
+/content/
+/HTML_utf/
+/upload/
 *.sublime-project
 *.zip
 *.sql

@@ -303,6 +303,70 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/D/Files/baikalsoft-work/backups/profkontur.com/hostingBS.txt",
+			"settings":
+			{
+				"buffer_size": 525,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\nreturn array (\n  'utf_mode' => \n  array (\n    'value' => true,\n    'readonly' => true,\n  ),\n  'cache_flags' => \n  array (\n    'value' => \n    array (\n      'config_options' => 3600.0,\n      'site_domain' => 3600.0,\n    ),\n    'readonly' => false,\n  ),\n  'cookies' => \n  array (\n    'value' => \n    array (\n      'secure' => false,\n      'http_only' => true,\n    ),\n    'readonly' => false,\n  ),\n  'exception_handling' => \n  array (\n    'value' => \n    array (\n      'debug' => false,\n      'handled_errors_types' => 4437,\n      'exception_errors_types' => 4437,\n      'ignore_silence' => false,\n      'assertion_throws_exception' => true,\n      'assertion_error_type' => 256,\n      'log' => NULL,\n    ),\n    'readonly' => false,\n  ),\n  'connections' => \n  array (\n    'value' => \n    array (\n      'default' => \n      array (\n        'className' => '\\\\Bitrix\\\\Main\\\\DB\\\\MysqliConnection',\n        'host' => 'u522965.mysql.masterhost.ru',\n        'database' => 'u522965_solution',\n        'login' => 'u522965',\n        'password' => 'yoni.Ss7NG9.',\n        'options' => 2.0,\n      ),\n    ),\n    'readonly' => true,\n  ),\n  'crypto' => \n  array (\n    'value' => \n    array (\n      'crypto_key' => '2f1781665f939fd98c64fb6b7bae0124',\n    ),\n    'readonly' => true,\n  ),\n);\n",
+			"file": "/C/Users/bipos/AppData/Local/Temp/scp42765/solution.profkontur.com/www/bitrix/.settings.php",
+			"file_size": 1275,
+			"file_write_time": 133192897926440510,
+			"settings":
+			{
+				"buffer_size": 1275,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AgAAALUDAAAAAAAAxQMAAAAAAAAAAAAAxQMAAAAAAADFAwAAAAAAAAsAAABhdmFudG1hcmtldA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtQMAAAAAAADAAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AgAAANwDAAAAAAAA4wMAAAAAAAAAAAAA4wMAAAAAAADjAwAAAAAAAAQAAAByb290",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA3AMAAAAAAADgAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"paste",
+					null,
+					"AgAAAP0DAAAAAAAACQQAAAAAAAAAAAAACQQAAAAAAAAJBAAAAAAAAAQAAAByb290",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA/QMAAAAAAAABBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"paste",
+					null,
+					"AgAAAJIDAAAAAAAArQMAAAAAAAAAAAAArQMAAAAAAACtAwAAAAAAAAkAAABsb2NhbGhvc3Q",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAkgMAAAAAAACbAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "HTML_utf/page.html",
+			"settings":
+			{
+				"buffer_size": 9660,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -408,10 +472,72 @@
 	},
 	"expanded_folders":
 	[
-		"/F/WEB/Apache24/htdocs/tests/avantmarket"
+		"/F/WEB/Apache24/htdocs/tests/avantmarket",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/templates",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/templates/.default",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/templates/landing24",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/HTML_utf",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/include"
 	],
 	"file_history":
 	[
+		"/C/Users/bipos/Desktop/Актуальные_доступы.txt",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/index.php",
+		"/C/Users/bipos/Desktop/tz.txt",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/header.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/templates/landing24/header.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/templates/.default/header.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/.gitignore",
+		"/C/Users/bipos/AppData/Local/Temp/scp43231/solution.profkontur.com/www/bitrix/php_interface/after_connect_d7.php",
+		"/C/Users/bipos/AppData/Local/Temp/scp43610/solution.profkontur.com/www/bitrix/php_interface/dbconn.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/bitrix/templates/.default/header.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/bitrix/templates/landing24/header.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/components/bitrix/system.auth.form/templates/.default/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/js/functions.js",
+		"/F/WEB/Apache24/htdocs/bitrix/bitrix/templates/eshop_bootstrap_v4/header.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/components/bitrix/menu/templates/tree/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_left/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/.left.menu_ext.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/footer.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_top/template.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/index.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/template_styles.css",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/system.auth.form/auth/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/include/phone.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/footer.php",
+		"/F/WEB/Apache24/htdocs/piter/stroimvipoteku.ru/contacts/index.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/.main.menu_ext.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/turbiny/index.php",
+		"/F/WEB/Apache24/htdocs/piter/custom/Amocrm.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/HTML_utf/page-day.html",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_top/.description.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_top/lang/en/.description.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_top/lang/ru/.description.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_default/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_about/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_about/.description.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_about/lang/ru/.description.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/menu/menu_left/.description.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/bitrix/components/bitrix/menu/templates/.default/template.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/components/bitrix/system.auth.form/auth/component_epilog.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/template.php",
+		"/F/WEB/Apache24/htdocs/bitrix/bitrix/templates/.default/header.php",
+		"/F/WEB/Apache24/htdocs/bitrix/bitrix/templates/.default/page_templates/.content.php",
+		"/F/WEB/Apache24/htdocs/bitrix/bitrix/templates/.default/page_templates/standard.php",
+		"/F/WEB/Apache24/htdocs/bitrix/sect_bottom.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/include_areas/phone.php",
+		"/F/WEB/Apache24/htdocs/bitrix/urlrewrite.php",
+		"/F/WEB/Apache24/htdocs/bitrix/sect_sidebar.php",
+		"/F/WEB/Apache24/htdocs/bitrix/include/company_logo.php",
+		"/F/WEB/Apache24/htdocs/bitrix/include/about.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/include_areas/phone_inc.php",
+		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/bitrix/templates/empty/header.php",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/HTML_utf/reviews-list.html",
+		"/F/WEB/Apache24/htdocs/tests/avantmarket/HTML_utf/template_style.css",
 		"/F/WEB/Apache24/htdocs/tests/avantmarket/local/templates/avantmarket/description.php",
 		"/F/WEB/Apache24/conf/extra/httpd-vhosts.conf",
 		"/C/Users/bipos/Desktop/hosts",
@@ -427,7 +553,6 @@
 		"/F/WEB/Apache24/htdocs/piter/bs/index.php",
 		"/D/Files/baikalsoft-work/backups/profkontur.com/ssh.txt",
 		"/C/Users/bipos/AppData/Local/Temp/scp40232/domains/stonecityofficial.ru/wp-config.php",
-		"/C/Users/bipos/Desktop/Актуальные_доступы.txt",
 		"/C/Users/bipos/AppData/Local/Temp/scp48505/domains/stonecityofficial.ru/test1.txt",
 		"/C/Users/bipos/AppData/Local/Temp/scp39932/domains/stonecityofficial.ru/my-errors2.log",
 		"/C/Users/bipos/AppData/Local/Temp/scp38373/domains/stonecityofficial.ru/index.html",
@@ -441,7 +566,6 @@
 		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/components/turboru/main.feedback/component.php",
 		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/work_stages.php",
 		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/css/html-elements.css",
-		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/index.php",
 		"/F/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/feedback.php",
 		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/components/bitrix/catalog.element/board/template — копия.php",
 		"/F/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/components/bitrix/catalog.element/board/lang/ru/template.php",
@@ -488,62 +612,11 @@
 		"/C/Users/bipos/AppData/Local/Temp/scp56311/bitrix.turboru.ru/public_html/test.php",
 		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/footer.php",
 		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/include/poisk-table.php",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/css/forms.css",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/php_interface/init.php",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/php_interface/forms_handlers.php",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/includes/new_blocks/work_stages.php",
-		"/D/WEB/Apache24/htdocs/piter/custom/Amocrm.php",
-		"/D/WEB/Apache24/htdocs/piter/custom/script.js",
-		"/D/WEB/Apache24/htdocs/piter/custom/index.php",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/table-poisk.js",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/scripts.js",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/active_link.js",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/js/custom.js",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/amocrm_api.php",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/token_info.json",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/refresh_token.json",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/php_interface/log-post22.txt",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/amocrm/auth.php",
-		"/D/WEB/Apache24/htdocs/profkontur_september/anketa/save.php",
-		"/D/WEB/Apache24/htdocs/piter/turboru/feedback/feedback.css",
-		"/C/Users/bipos/Downloads/main.js",
-		"/C/Users/bipos/Downloads/index.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp37977/salut-orto.ru/www/custom/index.php",
-		"/D/Files/psw/gmail_sister.txt",
-		"/D/WEB/Apache24/htdocs/piter/spgfood.ru/urlrewrite.php",
-		"/D/WEB/php7411/php.ini",
-		"/D/Files/dev/games/RE8VillageProblems.txt",
-		"/D/WEB/Apache24/htdocs/profkontur_september/static/local/cabinet/customer/customer.js",
-		"/C/Users/bipos/AppData/Local/Temp/scp19052/www/vpch.net/wp-content/themes/vpch/single.php",
-		"/D/Files/SORTED/webdev/style.css",
-		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/.htaccess",
-		"/C/Users/bipos/AppData/Local/Temp/scp37744/www/vpch.net/wp-content/themes/vpch/assets/css/ext.css",
-		"/C/Users/bipos/AppData/Local/Temp/scp33402/www/vpch.net/wp-content/themes/vpch/template-parts/comments.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp01236/www/vpch.net/.htaccess",
-		"/C/Users/bipos/AppData/Local/Temp/scp21745/www/optpropusk.ru/wp-content/themes/optpropusk/index.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp22483/www/optpropusk.ru/wp-content/themes/optpropusk/template-parts/reviews.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp22141/www/optpropusk.ru/wp-content/themes/optpropusk/template-parts/after_header.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp22888/www/optpropusk.ru/wp-content/themes/optpropusk/template-parts/breadcrumbs.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp16215/www/vpch.net/wp-content/themes/vpch/index.php",
-		"/C/Users/bipos/AppData/Local/Temp/scp16077/.htaccess",
-		"/D/WEB/Apache24/htdocs/profkontur_september/static/local/blog/blog.js",
-		"/D/WEB/Apache24/htdocs/profkontur_september/static/local/operator/operator.js",
-		"/D/Files/baikalsoft-work/backups/salut-orto.ru&robot-tsr.ru&steplife.pro/hosting.txt",
-		"/D/Files/baikalsoft-work/KPI_Ivan_current.txt",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/reset.scss",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/mixins.scss",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/main.scss",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/style/fonts.scss",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/src/js/main.js",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/assets/build/js/basket.js",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/gulpfile.js",
-		"/D/WEB/Apache24/htdocs/piter/spgfood-main/public/css/main.css",
-		"/D/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/turboru_m1/description.php",
-		"/D/WEB/Apache24/htdocs/piter/spgfood.ru/local/templates/spgfood/template_styles.css"
+		"/D/WEB/Apache24/htdocs/piter/turboru.local/public_html/local/templates/turboru_m1/assets/css/forms.css"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -578,12 +651,100 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/D/Files/baikalsoft-work/backups/profkontur.com/hostingBS.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/bipos/AppData/Local/Temp/scp42765/solution.profkontur.com/www/bitrix/.settings.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								527,
+								527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "HTML_utf/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3595,
+								5795
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -624,7 +785,7 @@
 	"project": "avantmarket.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
